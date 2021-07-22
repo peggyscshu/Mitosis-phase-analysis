@@ -19,7 +19,7 @@ A cell cycle occurs as a cell divides. The somatic cell leaves interphase, under
 8.	The necessary paramters from each time point were normalized by the previous values and used to define each phase in a cell cycle.
 9.	The duration of each phase is calculated along with the result table.
 
-#Instructions Mitosis phase analysis.ijm
+# Instructions Mitosis phase analysis.ijm
 1.	Clone this repository to your own account.
 2.	Install “Fiji is just Image J“ in your PC.
 3.	Tracking cells by Imaris.
@@ -29,6 +29,6 @@ A cell cycle occurs as a cell divides. The somatic cell leaves interphase, under
 7.	Execute the script under Plugins\Macros\Run
 8.	Check out the result.
 
-#Feedback
+# Feedback
 Made changes to the layout templates or some other part of the code? Fork this repository, make your changes, and send a pull request.
 Do these codes help on your research? Please cite as the follows. Skin cells undergo asynthetic fission to support expanding body surfaces in zebrafish. KY Chan, CCS Yan, HY Roan, SC Hsu, CD Hsiao, CP Hsu, CH Chen.
