@@ -21,11 +21,11 @@ A cell cycle occurs as a cell divides. The somatic cell leaves interphase, under
 9.	The start time frame and duration of each phase is calculated in the result table.
 10.	These two scripts support the batch process function on Fiji.
 
-# Instructions Mitosis phase analysis.ijm
+# Instruction Mitosis phase analysis.ijm
 1.	Clone this repository to your own account.
 2.	Install “Fiji is just Image J“ in your PC.
 3.	Tracking cells by Imaris.
-4.	Select a cell lineage which underwent mitosis.
+4.	Select a cell lineage which underwent the mitosis.
 5.	Convert the outside of the selected cell lineage with the gray value 0 and duplicate it as an additional channel.
 6.	Send the image to Fiji directly by Imaris.
 7.	Execute the script under Plugins\Macros\Run
