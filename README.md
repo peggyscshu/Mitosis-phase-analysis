@@ -1,4 +1,4 @@
-# Mitosis-phase-analysis
+# Mitosis-phase-analysis [![DOI](https://zenodo.org/badge/388534324.svg)](https://zenodo.org/badge/latestdoi/388534324)
 A cell cycle occurs as a cell divides. The somatic cell leaves interphase, undergoes mitosis and eventually gives out two daughter cells. Mitosis is composed by a series of events including prophase, metaphase, anaphase and telophase. Each phase is featured by DNA condensation, chromosomes lining up along the metaphase plate, segregation of duplicated chromosomes, and DNA decondensation, respectively. Here I offered a tool generated on Fiji plateform to identify the start of each phase and calculate the duration of them.
 
 # Applications
