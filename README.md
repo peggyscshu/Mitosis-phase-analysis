@@ -35,4 +35,5 @@ Made changes to the layout templates or some other part of the code? Fork this r
 Do these codes help on your research? Please cite as the follows. Skin cells undergo asynthetic fission to support expanding body surfaces in zebrafish. KY Chan, CCS Yan, HY Roan, SC Hsu, CD Hsiao, CP Hsu, CH Chen.
 
 # Structure
+![image](https://user-images.githubusercontent.com/67047201/126726730-be344dc8-d0d3-4608-a6f6-5856fc0c9d0d.png)
 
