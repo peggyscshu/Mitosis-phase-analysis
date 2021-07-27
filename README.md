@@ -7,7 +7,7 @@ A cell cycle occurs as a cell divides. The somatic cell leaves interphase, under
 3.	Cell proliferation
 
 # Demo image  
-![image](https://user-images.githubusercontent.com/67047201/126727953-7dd5bcb3-63d9-4576-a745-eb181327ccfd.png)
+![image](https://user-images.githubusercontent.com/67047201/127088763-cf784b17-3675-4486-a5fc-8746714689f1.png)
 
 # Description
 1.	Two scripts are available in this repository. The one named “Mitosis analysis_phase.ijm” will give the start of each phase (Fig. 1D upper). Another one “Mitosis analysis_condensation.ijm” will show the period of DNA condensation (Fig. 1D lower).
