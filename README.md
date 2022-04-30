@@ -34,7 +34,7 @@ A cell cycle occurs as a cell divides. The somatic cell leaves interphase, under
 
 # Feedback
 Made changes to the layout templates or some other part of the code? Fork this repository, make your changes, and send a pull request.
-Do these codes help on your research? Please cite as the follows. Skin cells undergo asynthetic fission to support expanding body surfaces in zebrafish. KY Chan, CCS Yan, HY Roan, SC Hsu, CD Hsiao, CP Hsu, CH Chen.
+Do these codes help on your research? Please cite as the follows. Chan, K.Y., Yan, CC.S., Roan, HY. et al. Skin cells undergo asynthetic fission to expand body surfaces in zebrafish. Nature (2022). https://doi.org/10.1038/s41586-022-04641-0
 
 # Structure
 ![image](https://user-images.githubusercontent.com/67047201/126728236-45dd8b37-e047-4b65-af1f-6efabfbf79dd.png)
